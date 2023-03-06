@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Luiz Gustavo Soares, tenho 23 anos e sou desenvolvedor Front-end.
+Hello, My name is Luiz Gustavo Soares, I'm 23 years old and I'm front-end developer.
 
 
 ## 🌐 Socials:
